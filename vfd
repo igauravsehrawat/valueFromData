@@ -1,0 +1,18 @@
+functionality first
+
+three properties of eucledian matrix:
+d = distance
+1. d(v1,v2) >= 0
+2. d(v1, v2+v3) = d(v1+v2) + d(v1+v3)
+3. d(v1+v2) + d(v1+v3) >= d(v3)
+
+L-p norm distance
+
+Generative mdodel of data
+
+clustering based  on latent data/meta data.
+
+choosing a feature vector is
+eg. entropy
+
+difference between clustering and classifier
